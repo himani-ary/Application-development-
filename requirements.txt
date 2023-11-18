@@ -1,0 +1,13 @@
+numpy==1.25.0
+pandas==2.0.3
+plotly==5.15.0
+dash==2.11.1
+scikit-learn==1.3.0
+bayesian-optimization==1.4.1
+Flask==2.2.5
+
+
+
+# To install the specified versions of the libraries use the following command:
+
+# pip install -r requirements.txt
